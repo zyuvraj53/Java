@@ -1,0 +1,31 @@
+package objectClass;
+
+import java.io.InputStreamReader;
+
+class ExampleClass{
+	public static ExampleClass thisIsWeird() {
+		System.out.println("this is weird.");
+		return new ExampleClass() {
+			public static void thisIsAFunction() {
+				System.out.println("this is very weird."); 
+			}
+		}; 
+	}
+	
+	public static void thisIsAFunction() {
+		System.out.println("yes"); 
+	}
+}
+
+public class SystemClass {
+		
+	public static void main(String[] args) {
+		
+		ExampleClass ec = new ExampleClass();
+		
+		InputStreamReader is = new InputStreamReader(null);
+		
+		System.out.println(ExampleClass.thisIsWeird()); 
+		System.out.println(is); 
+	}
+}

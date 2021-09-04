@@ -1,0 +1,15 @@
+package com.coderfromscratch;
+
+import com.fasterxml.jackson.databind.JsonNode;
+
+public class JsonTestMain {
+
+	public static void main(String[] args) {
+		
+		String jsonSource = "";
+		
+		JsonNode node = Json.parse(jsonSource);
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package telusko.Set;
+
+public class SetDemo {
+
+	public SetDemo() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

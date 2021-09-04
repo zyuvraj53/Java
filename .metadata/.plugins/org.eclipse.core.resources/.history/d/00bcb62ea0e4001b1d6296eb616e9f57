@@ -1,0 +1,17 @@
+package telusko;
+
+public class WrapperDemo {
+
+	public static void main(String[] args) {
+		
+		Integer i = 5;
+		System.out.println(i); ;
+		
+		int j = i.intValue();
+		int k = i;
+		System.out.println(j);
+		System.out.println(k); 
+
+	}
+
+}
