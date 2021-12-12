@@ -1,9 +1,0 @@
-package telusko.Collections;
-
-public class ComparableInterfaceDemo {
-
-	public static void main(String[] args) {
-
-	}
-
-}

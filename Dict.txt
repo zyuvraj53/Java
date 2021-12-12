@@ -1,1 +1,15 @@
 yuvraj
+initializing
+initialization
+unshuffled
+javascript
+chrome
+firefox
+safari
+mini
+colors
+subarrays
+abbrv
+congrats
+const
+int

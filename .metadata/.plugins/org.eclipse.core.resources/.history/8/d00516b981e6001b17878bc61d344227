@@ -1,9 +1,0 @@
-package telusko.Collections;
-
-public class ListDemo {
-
-	public static void main(String[] args) {
-
-	}
-
-}

@@ -1,5 +1,0 @@
-package telusko.my.own.exception;
-
-public class MyException extends Exception {
-
-}
