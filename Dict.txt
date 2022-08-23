@@ -13,3 +13,4 @@ abbrv
 congrats
 const
 int
+serializable

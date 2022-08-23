@@ -1,10 +1,14 @@
 package objectClass;
 
 import java.util.Scanner;
+import java.math.*;
 
+@SuppressWarnings("unused")
 public class FlushDemo {
 
 	public static void main(String[] args) {
+		
+		Math m = new Math.Random();
 		
 		Scanner sc = new Scanner(System.in);
 		
